@@ -1,0 +1,128 @@
+{
+    "amazon_ail_hover_related_product_thumbnail Median": {
+        "shorten_name": "hover_related_product_thumbnail",
+        "app": "amazon",
+        "graph_set": "amazon",
+        "schedule": ["0500", "1700"]
+    },
+    "amazon_ail_select_search_suggestion Median": {
+        "shorten_name": "select_search_suggestion",
+        "app": "amazon",
+        "graph_set": "amazon",
+        "schedule": ["0530", "1730"]
+    },
+    "amazon_ail_type_in_search_field Median": {
+        "shorten_name": "type_in_search_field",
+        "app": "amazon",
+        "graph_set": "amazon",
+        "schedule": ["0600", "1800"]
+    },
+    "facebook_ail_click_close_chat_tab Median": {
+        "shorten_name": "click_close_chat_tab",
+        "app": "facebook",
+        "graph_set": "facebook1",
+        "schedule": ["0900", "2100"]
+    },
+    "facebook_ail_click_open_chat_tab Median": {
+        "shorten_name": "click_open_chat_tab",
+        "app": "facebook",
+        "graph_set": "facebook1",
+        "schedule": ["0830", "2030"]
+    },
+    "facebook_ail_click_open_chat_tab_emoji Median": {
+        "shorten_name": "click_open_chat_tab_emoji",
+        "app": "facebook",
+        "graph_set": "facebook1",
+        "schedule": ["0800", "2000"]
+    },
+    "facebook_ail_click_photo_viewer_right_arrow Median": {
+        "shorten_name": "click_photo_viewer_right_arrow",
+        "app": "facebook",
+        "graph_set": "facebook1",
+        "schedule": ["0930", "2130"]
+    },
+    "facebook_ail_scroll_home_1_txt Median": {
+        "shorten_name": "scroll_home_1_txt",
+        "app": "facebook",
+        "graph_set": "facebook2",
+        "schedule": ["1000", "2200"]
+    },
+    "facebook_ail_type_comment_1_txt Median": {
+        "shorten_name": "type_comment_1_txt",
+        "app": "facebook",
+        "graph_set": "facebook2",
+        "schedule": ["1030", "2230"]
+    },
+    "facebook_ail_type_composerbox_1_txt Median": {
+        "shorten_name": "type_composerbox_1_txt",
+        "app": "facebook",
+        "graph_set": "facebook2",
+        "schedule": ["1100", "2300"]
+    },
+    "facebook_ail_type_message_1_txt Median": {
+        "shorten_name": "type_message_1_txt",
+        "app": "facebook",
+        "graph_set": "facebook2",
+        "schedule": ["1130", "2330"]
+    },
+    "gdoc_ail_pagedown_10_text Median": {
+        "shorten_name": "pagedown_10_text",
+        "app": "gdoc",
+        "graph_set": "gdoc_gsearch",
+        "schedule": ["0430", "1630"]
+    },
+    "gmail_ail_compose_new_mail_via_keyboard Median": {
+        "shorten_name": "compose_new_mail_via_keyboard",
+        "app": "gmail",
+        "graph_set": "gmail",
+        "schedule": ["0330", "1530"]
+    },
+    "gmail_ail_open_mail Median": {
+        "shorten_name": "open_mail",
+        "app": "gmail",
+        "graph_set": "gmail",
+        "schedule": ["0200", "1400"]
+    },
+    "gmail_ail_reply_mail Median": {
+        "shorten_name": "reply_mail",
+        "app": "gmail",
+        "graph_set": "gmail",
+        "schedule": ["0300", "1500"]
+    },
+    "gmail_ail_type_in_reply_field Median": {
+        "shorten_name": "type_in_reply_field",
+        "app": "gmail",
+        "graph_set": "gmail",
+        "schedule": ["0400", "1600"]
+    },
+    "gsearch_ail_select_image_cat Median": {
+        "shorten_name": "select_image_cat",
+        "app": "gsearch",
+        "graph_set": "gdoc_gsearch",
+        "schedule": ["0630", "1830"]
+    },
+    "gsearch_ail_select_search_suggestion Median": {
+        "shorten_name": "select_search_suggestion",
+        "app": "gsearch",
+        "graph_set": "gdoc_gsearch",
+        "schedule": ["0700", "1900"]
+    },
+    "gsearch_ail_type_searchbox Median": {
+        "shorten_name": "type_searchbox",
+        "app": "gsearch",
+        "graph_set": "gdoc_gsearch",
+        "schedule": ["0730", "1930"]
+    },
+    "youtube_ail_select_search_suggestion Median": {
+        "shorten_name": "select_search_suggestion",
+        "app": "youtube",
+        "graph_set": "youtube",
+        "schedule": ["0000", "1200"]
+    },
+    "youtube_ail_type_in_search_field Median": {
+        "shorten_name": "type_in_search_field",
+        "app": "youtube",
+        "graph_set": "youtube",
+        "schedule": ["0100", "1300"]
+    }
+}

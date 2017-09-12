@@ -1,0 +1,6 @@
+.idea/*
+*.pyc
+*.key
+*.DS_Store*
+hasal_data.csv
+hasal_perfherder_signatures.json

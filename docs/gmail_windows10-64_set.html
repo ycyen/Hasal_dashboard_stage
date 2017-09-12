@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hasal_gmail_windows10-64</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://code.highcharts.com/modules/solid-gauge.js"></script>
+
+    <!--My setting-->
+    <script language="JavaScript" src="./js/theme.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/set_page.css">
+</head>
+<body>
+    <div class="content">
+        <div class="row">
+            <div class="data_block_left" id="container1"></div>
+            <div class="data_block_right" id="container2"></div>
+        </div>
+        <div class="row">
+            <div class="data_block_left" id="container3"></div>
+            <div class="data_block_right" id="container4"></div>
+        </div>
+        <div class="row">
+            <div class="date_left">Latest data: 2017-09-11</div>
+            <div class="date_right">Refresh: 2017-09-12 12:03:22</div>
+        </div>
+    </div>
+    <div class="after_block"></div>
+
+    <div class="footer">
+        <div class="row">
+            <a href="daily_progress_all.html">
+            <div class="footer_left" >
+                <p class="title">Hasal Daily Progress (By Suites)</p>
+                <table class="chart">
+                    <tr>
+                        <th ROWSPAN=2></th>
+                        <th COLSPAN=2>Amazon</th>
+                        <th COLSPAN=2>FaceBook</th>
+                        <th COLSPAN=2>GDoc</th>
+                        <th COLSPAN=2>GMail</th>
+                        <th COLSPAN=2>GSearch</th>
+                        <th COLSPAN=2>YouTube</th>
+                    </tr>
+                    <tr>
+                        <td>Firefox</td>
+                        <td>Chrome</td>
+                        <td>Firefox</td>
+                        <td>Chrome</td>
+                        <td>Firefox</td>
+                        <td>Chrome</td>
+                        <td>Firefox</td>
+                        <td>Chrome</td>
+                        <td>Firefox</td>
+                        <td>Chrome</td>
+                        <td>Firefox</td>
+                        <td>Chrome</td>
+                    </tr>
+					<tr>
+						<td>Windows7</td>
+<td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td>					</tr>
+					<tr>
+						<td>Windows10</td>
+<td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td><td style="color: #bd1550">Error</td>					</tr>
+                </table>
+            </div></a>
+            <div class="footer_right">
+                <p class="title">Hasal Daily Progress (Overall)</p>
+                <div class="row">
+                    <div class="gauge_left" >
+                        <p class="gauge_title">Windows7</p>
+                        <div class="gauge_div" id="container-windows8"></div>
+                    </div>
+                    <div class="gauge_right">
+                        <p class="gauge_title">Windows10</p>
+                        <div class="gauge_div" id="container-windows10"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+	<script language="JavaScript" src="./js/gmail_ail_type_in_reply_field_windows10.js"></script>
+	<script language="JavaScript">
+		$(function () {Highcharts.chart('container1', gmail_ail_type_in_reply_field_windows10);});
+	</script>
+	<script language="JavaScript" src="./js/gmail_ail_reply_mail_windows10.js"></script>
+	<script language="JavaScript">
+		$(function () {Highcharts.chart('container2', gmail_ail_reply_mail_windows10);});
+	</script>
+	<script language="JavaScript" src="./js/gmail_ail_open_mail_windows10.js"></script>
+	<script language="JavaScript">
+		$(function () {Highcharts.chart('container3', gmail_ail_open_mail_windows10);});
+	</script>
+	<script language="JavaScript" src="./js/gmail_ail_compose_new_mail_via_keyboard_windows10.js"></script>
+	<script language="JavaScript">
+		$(function () {Highcharts.chart('container4', gmail_ail_compose_new_mail_via_keyboard_windows10);});
+	</script>
+	<script language="JavaScript" src="./js/windows8_gauge.js"></script>
+	<script language="JavaScript">$(function() {$('#container-windows8').highcharts(                            windows8_gauge_data);});</script>
+	<script language="JavaScript" src="./js/windows10_gauge.js"></script>
+	<script language="JavaScript">$(function() {$('#container-windows10').highcharts(                            windows10_gauge_data);});</script>
+</body>
+</html>

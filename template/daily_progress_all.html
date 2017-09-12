@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Daily Progress (All suites)</title>
+    <meta http-equiv="refresh" content="300">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Archivo Black">
+    <link rel="stylesheet" type="text/css" href="./css/daily_progress.css">
+</head>
+<body>
+    <div class="row">
+        <p class="title">Hasal Daily Progress</p>
+        <table class="chart">
+            <tr>
+                <th rowspan="2"></th>
+                <th colspan="2" rowspan="2">Trigger Time</th>
+                <th rowspan="2">Suite Name</th>
+                <th colspan="2">Windows7</th>
+                <th colspan="2">Windows10</th>
+            </tr>
+            <tr>
+                <th>Firefox</th>
+                <th>Chrome</th>
+                <th>Firefox</th>
+                <th>Chrome</th>
+            </tr>
+            <!--rows go here-->
+        </table>
+
+        <div class="row_date">
+            <div class="date_left">Nightly Build: {{LATEST_DATA_TIME}}</div>
+            <div class="date_right">Refresh: {{REFRESH_TIME}}</div>
+        </div>
+    </div>
+</body>
+</html>
