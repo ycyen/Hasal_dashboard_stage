@@ -43,9 +43,11 @@ var gmail_ail_type_in_reply_field_windows10 = {
     series: [{
 		name: 'firefox',
 		data: [
+			[Date.UTC(2017, 8, 12), 11.110000],
 		]    }, {
 		name: 'chrome',
 		data: [
 			[Date.UTC(2017, 8, 11), 22.220000],
+			[Date.UTC(2017, 8, 12), 77.780000],
 		]    }]
 }
