@@ -43,9 +43,11 @@ var gsearch_ail_type_searchbox_windows10 = {
     series: [{
 		name: 'firefox',
 		data: [
+			[Date.UTC(2017, 8, 13), 11.110000],
 		]    }, {
 		name: 'chrome',
 		data: [
 			[Date.UTC(2017, 8, 12), 211.110000],
+			[Date.UTC(2017, 8, 13), 188.890000],
 		]    }]
 }
