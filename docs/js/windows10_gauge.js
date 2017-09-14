@@ -57,7 +57,7 @@ var windows10_gauge_data = {
     },
     series: [{
         name: 'windows10', //code add here
-        data: [26], // code add here
+        data: [27], // code add here
         dataLabels: {
             format: '<div style="text-align:center"><span style="font-size:25px;color:' +
             ((Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black') + '">{y}%</span><br/>' +
