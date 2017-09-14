@@ -56,6 +56,9 @@ var gmail_ail_compose_new_mail_via_keyboard_windows10 = {
 			[Date.UTC(2017, 8, 14), 211.110000],
 			[Date.UTC(2017, 8, 14), 211.110000],
 			[Date.UTC(2017, 8, 14), 233.330000],
+			[Date.UTC(2017, 8, 14), 233.330000],
+			[Date.UTC(2017, 8, 14), 233.330000],
+			[Date.UTC(2017, 8, 14), 255.560000],
 		]    }, {
 		name: 'chrome',
 		data: [
@@ -72,6 +75,8 @@ var gmail_ail_compose_new_mail_via_keyboard_windows10 = {
 			[Date.UTC(2017, 8, 13), 188.890000],
 			[Date.UTC(2017, 8, 14), 133.330000],
 			[Date.UTC(2017, 8, 14), 155.560000],
+			[Date.UTC(2017, 8, 14), 166.670000],
+			[Date.UTC(2017, 8, 14), 166.670000],
 			[Date.UTC(2017, 8, 14), 166.670000],
 			[Date.UTC(2017, 8, 14), 166.670000],
 		]    }]
