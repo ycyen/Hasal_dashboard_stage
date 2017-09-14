@@ -43,8 +43,12 @@ var gdoc_ail_pagedown_10_text_windows10 = {
     series: [{
 		name: 'firefox',
 		data: [
+			[Date.UTC(2017, 8, 14), 44.440000],
+			[Date.UTC(2017, 8, 14), 55.560000],
 		]    }, {
 		name: 'chrome',
 		data: [
+			[Date.UTC(2017, 8, 14), 11.110000],
+			[Date.UTC(2017, 8, 14), 33.330000],
 		]    }]
 }
