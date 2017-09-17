@@ -43,8 +43,6 @@ var amazon_ail_hover_related_product_thumbnail_windows10 = {
     series: [{
 		name: 'firefox',
 		data: [
-			[Date.UTC(2017, 8, 4), 377.780000],
-			[Date.UTC(2017, 8, 4), 400.000000],
 		]    }, {
 		name: 'chrome',
 		data: [
