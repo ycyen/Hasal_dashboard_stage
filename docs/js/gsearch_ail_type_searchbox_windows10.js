@@ -89,6 +89,9 @@ var gsearch_ail_type_searchbox_windows10 = {
 			[Date.UTC(2017, 8, 18), 44.440000],
 			[Date.UTC(2017, 8, 18), 5.560000],
 			[Date.UTC(2017, 8, 18), 5.560000],
+			[Date.UTC(2017, 8, 19), 5.560000],
+			[Date.UTC(2017, 8, 19), 55.560000],
+			[Date.UTC(2017, 8, 19), 77.780000],
 			[Date.UTC(2017, 8, 19), 77.780000],
 		]    }, {
 		name: 'chrome',
