@@ -45,9 +45,6 @@ var gmail_ail_type_in_reply_field_windows8 = {
 		data: [
 			[Date.UTC(2017, 8, 10), 33.330000],
 			[Date.UTC(2017, 8, 10), 44.440000],
-			[Date.UTC(2017, 8, 10), 44.440000],
-			[Date.UTC(2017, 8, 10), 33.330000],
-			[Date.UTC(2017, 8, 10), 44.440000],
 			[Date.UTC(2017, 8, 10), 55.560000],
 			[Date.UTC(2017, 8, 11), 33.330000],
 			[Date.UTC(2017, 8, 11), 44.440000],
@@ -55,9 +52,6 @@ var gmail_ail_type_in_reply_field_windows8 = {
 		]    }, {
 		name: 'chrome',
 		data: [
-			[Date.UTC(2017, 8, 10), 22.220000],
-			[Date.UTC(2017, 8, 10), 22.220000],
-			[Date.UTC(2017, 8, 10), 44.440000],
 			[Date.UTC(2017, 8, 10), 11.110000],
 			[Date.UTC(2017, 8, 10), 22.220000],
 			[Date.UTC(2017, 8, 10), 33.330000],
