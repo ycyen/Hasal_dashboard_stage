@@ -43,11 +43,8 @@ var gmail_ail_open_mail_windows10 = {
     series: [{
 		name: 'firefox',
 		data: [
-			[Date.UTC(2017, 8, 11), 5.560000],
 		]    }, {
 		name: 'chrome',
 		data: [
-			[Date.UTC(2017, 8, 11), 211.110000],
-			[Date.UTC(2017, 8, 11), 233.330000],
 		]    }]
 }

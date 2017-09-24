@@ -43,14 +43,8 @@ var gmail_ail_reply_mail_windows8 = {
     series: [{
 		name: 'firefox',
 		data: [
-			[Date.UTC(2017, 8, 11), 244.440000],
-			[Date.UTC(2017, 8, 11), 255.560000],
-			[Date.UTC(2017, 8, 11), 266.670000],
 		]    }, {
 		name: 'chrome',
 		data: [
-			[Date.UTC(2017, 8, 11), 133.330000],
-			[Date.UTC(2017, 8, 11), 133.330000],
-			[Date.UTC(2017, 8, 11), 144.440000],
 		]    }]
 }
