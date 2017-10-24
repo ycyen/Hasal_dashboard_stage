@@ -44,6 +44,7 @@ var gmail_ail_reply_mail_windows8 = {
 		name: 'firefox',
 		data: [
 			[Date.UTC(2017, 9, 24), 244.440000],
+			[Date.UTC(2017, 9, 24), 244.440000],
 			[Date.UTC(2017, 9, 24), 255.560000],
 		]    }, {
 		name: 'chrome',
