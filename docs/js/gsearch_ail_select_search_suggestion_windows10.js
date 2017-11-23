@@ -43,6 +43,7 @@ var gsearch_ail_select_search_suggestion_windows10 = {
     series: [{
 		name: 'firefox',
 		data: [
+			[Date.UTC(2017, 10, 22), 11.110000],
 		]    }, {
 		name: 'chrome',
 		data: [
